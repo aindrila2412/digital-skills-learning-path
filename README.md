@@ -43,5 +43,4 @@ own terms.
 ## What I'd improve
 
 I haven't had a screen-reader test done by a real person, only automated checks and a contrast calculation. I'd also
-like to try it with real learners and see what falls over, and test on a real iPhone, since I only used a desktop
-browser pretending to be one.
+like to try it with real learners and see what falls over.
